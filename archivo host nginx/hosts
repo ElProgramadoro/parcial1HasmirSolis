@@ -1,0 +1,14 @@
+#
+#127.0.0.1 localhost
+#::1 localhost
+127.0.0.1 holamundo.com
+127.0.0.1 lab2.com
+127.0.0.1 lab3.com
+127.0.0.1 poo.com
+127.0.0.1 lab4.com
+127.0.0.1 parcial1.com
+
+0.0.0.0 genuine.adobe.com
+0.0.0.0 assets.adobedtm.com
+0.0.0.0 cc-api-data.adobe.io
+0.0.0.0 ic.adobe.io
